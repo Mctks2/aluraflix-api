@@ -1,0 +1,61 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Grand Theft Auto: Vice City",
+      "cover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgry.interia.pl%2Fnewsy%2Fnews-gta-vice-city-w-stylu-prl-u-w-tej-modyfikacji-jest-to-mozliw%2CnId%2C7124794&psig=AOvVaw2Ry5YOm6LCzPIpcNP9BtDP&ust=1720579003224000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCM5MD2mIcDFQAAAAAdAAAAABAQ",
+      "link": "https://www.youtube.com/watch?v=m8oQllwqw_I&ab_channel=GameSpot",
+      "system": "Ação e Aventura",
+      "description": "O jogo se passa na cidade ficcional de Vice City na década de 1980, com a história seguindo o mafioso Tommy Vercetti na construção de seu império criminal e confrontos com outras organizações criminais da cidade. O mundo aberto permite que os jogadores naveguem livremente pelas ilhas que formam a cidade."
+    },
+    {
+      "id": 2,
+      "title": "Red Dead Redemption 2",
+      "cover": "https://files.tecnoblog.net/wp-content/uploads/2020/07/red-dead-redemption-2-e1614093915590.jpg",
+      "link": "https://www.youtube.com/watch?v=gmA6MrX81z4&ab_channel=RockstarGames",
+      "system": "Ação e Aventura",
+      "description": "Red Dead Redemption 2 é um jogo de ação e aventura em mundo aberto desenvolvido pela Rockstar Games. O jogo se passa em 1899, no final da era do Velho Oeste, e segue a história do fora-da-lei Arthur Morgan, membro da gangue Van der Linde."
+    },
+    {
+      "id": 3,
+      "title": "Grand Theft Auto V",
+      "cover": "https://cdn.awsli.com.br/2500x2500/1610/1610163/produto/177700809/poster-grand-theft-auto-v-gta-5-b-5ceeda64.jpg",
+      "link": "https://www.youtube.com/watch?v=QkkoHAzjnUs&ab_channel=RockstarGames",
+      "system": "Mundo Aberto",
+      "description": "Grand Theft Auto V, popularmente conhecido como GTA V, é um jogo eletrônico de ação e aventura lançado em 2013 para o PS3. Desenvolvido pela Rockstar North, o jogo se passa na cidade fictícia de Los Santos, inspirada em Los Angeles, e no condado rural de Blaine County, no sul da Califórnia."
+    },
+    {
+      "id": 4,
+      "title": "Red Dead Redemption",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Red_Dead_Redemption_capa.png",
+      "link": "https://www.youtube.com/watch?v=-o7rES_3ymA&ab_channel=RockstarGames",
+      "system": "Mundo Aberto",
+      "description": "Red Dead Redemption é um jogo eletrônico faroeste de ação aventura jogado em uma perspectiva de terceira pessoa em um mundo aberto. O jogador controla John Marston, podendo interagir com o ambiente e entrar em combate contra inimigos usando diferentes armas."
+    },
+    {
+      "id": 5,
+      "title": "Max Payne 3",
+      "cover": "https://gaming-cdn.com/images/products/7034/616x353/max-payne-3-complete-pack-complete-pack-pc-jogo-rockstar-cover.jpg?v=1706806594",
+      "link": "https://www.youtube.com/watch?v=4Uc_dbG7MR8&ab_channel=RockstarGames",
+      "system": "Tiro em Terceira Pessoa",
+      "description": "O jogo decorre em São Paulo, Brasil, onde Payne está trabalhando na sector da segurança privada para uma rica família local, oito anos após os eventos do segundo jogo. Max Payne agora trabalha na proteção de executivos para os ricos Rodrigo Branco, na esperança de escapar às lembranças conturbadas do seu passado."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "system": "Ação e Aventura",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "system": "Mundo Aberto",
+      "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "system": "Tiro em Terceira Pessoa",
+      "color": "#FFBA05"
+    }
+  ]
+}
